@@ -1,0 +1,17 @@
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\mycode.exe
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\mycode.deps.json
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\mycode.runtimeconfig.json
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\mycode.dll
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\mycode.pdb
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.csproj.AssemblyReference.cache
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.AssemblyInfo.cs
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.dll
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\refint\mycode.dll
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.pdb
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.genruntimeconfig.cache
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\ref\mycode.dll
+C:\xampp\htdocs\pesquisa\mycode\bin\Debug\net6.0\FluentColorConsole.dll
+C:\xampp\htdocs\pesquisa\mycode\obj\Debug\net6.0\mycode.csproj.CopyComplete
